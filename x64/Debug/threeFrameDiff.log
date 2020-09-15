@@ -1,0 +1,7 @@
+﻿  main.cpp
+c:\program files (x86)\intel realsense sdk 2.0\include\librealsense2\h\rs_option.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\desktop\threeframediff\threeframediff\main.cpp(69): warning C4715: “threeFrameDiff”: 不是所有的控件路径都返回值
+  threeFrameDiff.vcxproj -> F:\Desktop\threeFrameDiff\x64\Debug\threeFrameDiff.exe
+  Copy Intel RealSense SDK 2.0 shared module next to the application
+  C:\Program Files (x86)\Intel RealSense SDK 2.0\bin\x64\realsense2.dll
+  复制了 1 个文件
